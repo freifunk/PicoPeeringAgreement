@@ -1,4 +1,4 @@
-# Pico Peering Agreement v1.0 #
+# Pico Peering Agreement v1.1 #
 
 ## Preambel ##
 
