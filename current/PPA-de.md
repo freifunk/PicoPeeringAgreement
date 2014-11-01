@@ -11,8 +11,8 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 ## Vereinbarung ##
 
 ### 1. Freier Transit ###
-* Der Eigentümer bestätigt, freien Transit über seine freie Netzwerkinfrastruktur anzubieten
-* Der Eigentümer bestätigt, die Daten, die seine freie Netzwerkinfrastruktur passieren, weder störend zu beeinträchtigen noch zu verändern.
+* Der Eigentümer bestätigt, freien Transit über seine freie Netzwerkinfrastruktur anzubieten.
+* Der Eigentümer bestätigt, die Daten, die seine freie Netzwerkinfrastruktur passieren, weder störend zu beeinträchtigen, noch zu verändern.
 
 ### 2. Offene Kommunikation ###
 * Der Eigentümer erklärt, alle Informationen zu veröffentlichen, die für die Verbindung mit seiner Netzwerkinfrastruktur notwendig sind.
