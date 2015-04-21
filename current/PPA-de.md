@@ -33,11 +33,11 @@ Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilliger aus verschied
 * Hier können vom Eigentümer selbst Ergänzungen zur Vertragsvereinbarung vorgenommen werden.
 
 ## Begriffserklärungen ##
-* Eigentümer: Der Eigentümer verfügt über das Recht, seine Netzwerkinfrastruktur zu betreiben und einen Teil ihrer Funktionalität für das freie Netzwerk bereitzustellen (zu stiften, zu spenden).
-* Transit: Transit ist der Austausch von Daten in ein Netzwerk hinein, heraus oder durch ein Netzwerk hindurch.
-* Freier Transit: Freier Transit bedeutet, dass der Eigentümer weder Gebühren für den Transit von Daten erhebt, noch die Daten verändert.
-* Freies Netzwerk: Das Freie Netzwerk ist die Summe der miteinander verbundenen Hard- und Software, dessen Anteil für den freien Transit vom Eigentümer dieser Ressourcen zu Verfügung gestellt wird.
-* Der Dienst: Der Dienst (Betrieb, Service) besteht aus freiem Transit und zusätzlichen Diensten.
-* Zusätzliche Dienste: Im Sinne des PPA ist ein zusätzlicher Dienst alles war über freien Transit hinaus geht. Zum Beispiel die Bereitstellung eines DHCP-Servers, WEB-Servers oder Mail-Servers.
+* **Eigentümer**: Der Eigentümer verfügt über das Recht, seine Netzwerkinfrastruktur zu betreiben und einen Teil ihrer Funktionalität für das freie Netzwerk bereitzustellen (zu stiften, zu spenden).
+* **Transit**: Transit ist der Austausch von Daten in ein Netzwerk hinein, heraus oder durch ein Netzwerk hindurch.
+* **Freier Transit**: Freier Transit bedeutet, dass der Eigentümer weder Gebühren für den Transit von Daten erhebt, noch die Daten verändert.
+* **Freies Netzwerk**: Das Freie Netzwerk ist die Summe der miteinander verbundenen Hard- und Software, dessen Anteil für den freien Transit vom Eigentümer dieser Ressourcen zu Verfügung gestellt wird.
+* **Der Dienst**: Der Dienst (Betrieb, Service) besteht aus freiem Transit und zusätzlichen Diensten.
+* **Zusätzliche Dienste**: Im Sinne des PPA ist ein zusätzlicher Dienst alles war über freien Transit hinaus geht. Zum Beispiel die Bereitstellung eines DHCP-Servers, WEB-Servers oder Mail-Servers.
 
 Das PPA soll nach vereinbarten Standards in maschinenlesbarer Form in Community-Node-Datenbanken eingebaut werden, um die automatische Vernetzung solcher Knoten zu ermöglichen.
