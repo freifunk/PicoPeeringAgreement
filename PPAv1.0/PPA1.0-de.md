@@ -6,7 +6,7 @@ Mittlerweile gibt es viele Community-Netzwerke, diese sind jedoch geographisch u
 
 Das PPA ist eine formalisierte Beschreibung der Verbindung zwischen zwei Netzwerk-Instanzen (peers). Eigentümer einer Netzwerkinfrastruktur machen von ihrem Eigentumsrecht Gebrauch, indem sie ihr Einverständnis dafür geben, einen Teil ihrer Infrastruktur für den freien Datenaustausch über ihr Netzwerk bereitzustellen.
 
-Das PPA wird auf http://picopeer.net von einer Gruppe Freiwilligen aus verschiedenen Ländern der Welt gepflegt (maintained). Es soll als Vorlage für weitere Kleinst-Verbindungsabkommen und Verträge dienen.
+Das PPA wird auf http://picopeer.net von einer Gruppe von Freiwilligen aus verschiedenen Ländern der Welt gepflegt (maintained). Es soll als Vorlage für weitere Kleinst-Verbindungsabkommen und Verträge dienen.
 
 ## Vereinbarung ##
 
